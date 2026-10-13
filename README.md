@@ -4,4 +4,4 @@
 # 運営サイト
 GitHub連携（というか多少クロールされてもいいところ）のみ。
 - [1878 Chavanon](https://chavanon.netlify.app/)
-- [家なき子私訳記録](https://p-trans.yukitoyath.jp/)
+- [「家なき子」を翻訳したものを置くところ](https://p-trans.yukitoyath.jp/)
